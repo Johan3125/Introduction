@@ -9,5 +9,5 @@
 ### Liên Hệ
     gmail: lenhattoanhello@gmail.comcom
     github: lenhattoan11022005@gmail.com
-    trello: lenhattoan11022005@gmail.comcom
+    trello: lenhattoan11022005@gmail.com
 
